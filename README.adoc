@@ -8,24 +8,24 @@ This ontology is rendered online at the persistent identifier location of:
 
 * *https://linked.data.gov.au/def/bdr-msg*
 
-## License
+== License
 
 The content of this repository is licensed for reuse using the https://creativecommons.org/licenses/by/4.0/[Creative Commons BY 4.0] license, as per Australian Government expectations. A copy of the license deed is in the file LICENSE.
 
-## Contact
+== Contact
 
 ABIS is owned by the Australian Biodiversity Governance Group (AusBIGG) and managed by the ABIS working group with asstance from the https://www.dcceew.gov.au/[Department of Climate Change, Energy, the Environment and Water] and https://www.tern.org.au[TERN].
 
 For enquiries, please contact:  
 
-_ABIS WG Co-chairs_:  
-**Siddeswara Guru**  
+_ABIS WG Co-chairs_:  +
+**Siddeswara Guru**  +
 <s.guru@uq.edu.au>  
 
-**Kheeran Dharmawardena**  
+**Kheeran Dharmawarden a** +
 <kheeran.dharmawardena@dcceew.gov.au>
 
-_Technical contact_:  
-**Nicholas Car**  
-_Data Architect_  
-<nick@kurrawong.ai>  
+_Technical contact_: +
+**Nicholas Car** +
+_Data Architect_ +
+<nick@kurrawong.ai>
